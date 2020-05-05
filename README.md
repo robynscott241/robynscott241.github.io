@@ -10,6 +10,9 @@ sustainability and environmental affairs and the role we can play
 in protecting our environment. One of my unique features is my below
 knee amputation and my prosthetic leg.
 
+# Age: 27
+# Location: Johannesburg, South Africa 
+
 ***
 ## Education
 - *Degree:* MSc in Environmental Risk & Business Resilience
@@ -64,7 +67,7 @@ knee amputation and my prosthetic leg.
       - Taking minutes
 
 ***
-## Interests
+## Interests/Hobbies
 - Cooking
 - Gardening
 - Dog Training
