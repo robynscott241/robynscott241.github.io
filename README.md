@@ -14,7 +14,7 @@ knee amputation and my prosthetic leg.
 ### Location: Johannesburg, South Africa 
 
 ***
-> ## Education
+## Education
 - *Degree:* **MSc in Environmental Risk & Business Resilience**
 - *University:* University of the Witwatersrand
 - *Time:* 2018 - 2020
