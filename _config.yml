@@ -4,6 +4,8 @@ description: GAP Graduate Intern 2020
 use_logo: true
 logo: /assets/images/circularprofile.png
 
-linkedin: robyn-dent-60ab0214a
-email: robyn24dent@gmail.com
-phone: 011 745 2007 
+navbar-links:
+  email: robyn24dent@gmail.com
+  linkedin: robyn-dent-60ab0214a
+  telephone: +27 11 745 2007
+
