@@ -15,23 +15,23 @@ knee amputation and my prosthetic leg.
 
 ***
 ## Education
-- *Degree:* MSc in Environmental Risk & Business Resilience
+- *Degree:* **MSc in Environmental Risk & Business Resilience**
 - *University:* University of the Witwatersrand
 - *Time:* 2018 - 2020
 
-- *Degree:*  Specilised Project Management (Advanced Diploma)
+- *Degree:*  **Specilised Project Management (Advanced Diploma)**
 - *University:* University of the Witwatersrand (WitsPlus)
 - *Time:* 2017-2017
       
-- *Degree:* BSc Honours in Climate Change & Adaptation
+- *Degree:* **BSc Honours in Climate Change & Adaptation**
 - *University:* University of the Witwatersrand
 - *Time:* 2016-2016
       
-- *Degree:* Fundamentals of Project Management (Diploma)
+- *Degree:* **Fundamentals of Project Management (Diploma)**
 - *University:* University of the Witwatersrand (WitsPlus)
 - *Time:* 2016-2016
       
-- *Degree:* BSc in Zoology, Ecology & Environmental Science
+- *Degree:* **BSc in Zoology, Ecology & Environmental Science**
 - *University:* University of the Witwatersrand
 - *Time:*  2012-2015
 
