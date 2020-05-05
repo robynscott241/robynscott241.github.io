@@ -1,9 +1,8 @@
-## Welcome to my Digital Profile
+# Welcome to my Digital Profile
 
 ![Robyn Dent (github)](https://user-images.githubusercontent.com/64772718/80975293-36f0bb80-8e22-11ea-8560-263ef88df570.jpg)
 
-## ABOUT ME 
-
+## About Me 
 ### Summary:
         My name is Robyn and I am currently a GAP Gradate Intern at Dimension
         Data in Johannesburg. I have a Masters degree in business resilience 
@@ -17,7 +16,7 @@
     - degree: MSc in Environmental Risk & Business Resilience
       university: University of the Witwatersrand
       time: 2018 - 2020
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -28,7 +27,7 @@
     - degree:  Specilised Project Management (Advanced Diploma)
       university: University of the Witwatersrand (WitsPlus)
       time: 2017-2017
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -39,7 +38,7 @@
     - degree: BSc Honours in Climate Change & Adaptation
       university: University of the Witwatersrand
       time: 2016-2016
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -50,7 +49,7 @@
     - degree: Fundamentals of Project Management (Diploma)
       university: University of the Witwatersrand (WitsPlus)
       time: 2016-2016
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -69,6 +68,7 @@
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
 ### Experiences: 
     - role: GAP Graduate Intern
       time: February 2020 - Present
