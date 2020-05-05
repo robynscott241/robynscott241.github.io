@@ -2,8 +2,8 @@
 
 ![Robyn Dent (github)](https://user-images.githubusercontent.com/64772718/80975293-36f0bb80-8e22-11ea-8560-263ef88df570.jpg)
 
+***
 ## About Me
-
 My name is Robyn and I am currently a GAP Gradate Intern at Dimension 
 Data in Johannesburg. I have a Masters degree in business resilience 
 and environmental risk. I live with my fiancé and our three dogs, in 
@@ -12,6 +12,7 @@ sustainability and environmental affairs and the role we can play
 in protecting our environment. One of my unique features is my below
 knee amputation and my prosthetic leg.
 
+***
 ## Education
 - *Degree:* MSc in Environmental Risk & Business Resilience
 - *University:* University of the Witwatersrand
@@ -33,6 +34,7 @@ knee amputation and my prosthetic leg.
 - *University:* University of the Witwatersrand
 - *Time:*  2012-2015
 
+***
 ## Interests
 - Cooking
 - Gardening
