@@ -10,8 +10,8 @@ sustainability and environmental affairs and the role we can play
 in protecting our environment. One of my unique features is my below
 knee amputation and my prosthetic leg.
 
-# Age: 27
-# Location: Johannesburg, South Africa 
+### Age: 27
+### Location: Johannesburg, South Africa 
 
 ***
 ## Education
