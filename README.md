@@ -41,7 +41,7 @@ knee amputation and my prosthetic leg.
 - Time: February 2020 - Present
 - Company: Dimension Data
       
-- Role: Teashing Assitant
+- Role: Teaching Assitant
 - Time: 2016 - 2020
 - Company: University of the Witwatersrand
 - Details: 
