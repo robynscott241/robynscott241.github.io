@@ -74,6 +74,11 @@ knee amputation and my prosthetic leg.
 - Mountain Biking
 - Reading
 - Sports Shooting
+
+***
+## Contact Me
+### Email : <robyn24dent@gmail.com>
+### LinkedIn : <https://www.linkedin.com/in/robyn-dent-60ab0214a/>
       
 
 
