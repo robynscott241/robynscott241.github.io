@@ -1,7 +1,5 @@
 # Welcome to my Digital Profile
 
-![Robyn Dent (github)](https://user-images.githubusercontent.com/64772718/80975293-36f0bb80-8e22-11ea-8560-263ef88df570.jpg)
-
 ***
 ## About Me
 My name is Robyn and I am currently a GAP Gradate Intern at Dimension 
