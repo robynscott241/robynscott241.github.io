@@ -4,7 +4,7 @@
 
 ## ABOUT ME 
 
-### Summary: |
+### Summary:
         My name is Robyn and I am currently a GAP Gradate Intern at Dimension
         Data in Johannesburg. I have a Masters degree in business resilience 
         and environmental risk. I live with my fiance and our three dogs, in 
@@ -12,7 +12,8 @@
         sustainability and environmental affairs and the role we can play
         in protecting our environment. One of my unique features is my below
         knee amputation and my prosthetic leg.
-### Education: |
+        
+### Education:
     - degree: MSc in Environmental Risk & Business Resilience
       university: University of the Witwatersrand
       time: 2018 - 2020
@@ -60,7 +61,7 @@
     - degree: BSc in Environmental Science
       university: University of the Witwatersrand
       time: 2012-2015
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -68,11 +69,11 @@
         pretium quis, sem.
           - Bullet point
           - Bullet point
-### Experiences: |
+### Experiences: 
     - role: GAP Graduate Intern
       time: February 2020 - Present
       company: Dimension Data
-      details: |
+      details: 
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
