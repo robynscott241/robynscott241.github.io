@@ -45,8 +45,8 @@ knee amputation and my prosthetic leg.
 - Time: 2016 - 2020
 - Company: University of the Witwatersrand
 - Details: 
-     - Provided support to a lectures with marking and practical preparation
-     - Reinforce lessons presented by lectures by reviewing material
+     - Provided support to a lecturers with marking and practical preparation
+     - Reinforce lessons presented by lecturers by reviewing material
         with students one-on-one or in small groups
      - Lead practical sessions 
      - Assiting with the invigilation and marking of exams/tests
