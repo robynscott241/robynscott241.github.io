@@ -1,4 +1,5 @@
-# Welcome to my Digital Profile
+<h1 style="text-align:center">
+<h1>Welcome to my Digital Profile</h1> 
 
 ***
 ## About Me
